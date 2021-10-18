@@ -9,7 +9,9 @@
   "author": "Sofiane ABDEDOU",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.4",
     "express": "^4.17.1",
-    "express-handlebars": "^5.3.4"
+    "express-handlebars": "^5.3.4",
+    "mocha": "^9.1.3"
   }
 }
